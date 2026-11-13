@@ -3,7 +3,7 @@
 ## ✅ 精选入口
 
 - 🔥 主入口：https://claudeapp.asia/list/#/home
-- 🚀 备用入口：https://geminiai.asia/list/#/
+- 🚀 备用入口：https://gemini-ultra.top/list/#/
 - 📌 镜像导航：https://chatgpt-plus.top/
 
 ## 📋 目录导航
@@ -58,7 +58,7 @@
 ### 步骤 1：选择入口
 访问任一镜像入口：
 - 主入口：https://claudeapp.asia/list/#/home
-- 备用：https://geminiai.asia/list/#/
+- 备用：https://gemini-ultra.top/list/#/
 - 导航：https://chatgpt-plus.top/
 
 ### 步骤 2：注册账号
